@@ -1,5 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Menerima Input User
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Di Tutorial Kali Ini, Kita akan belajar gimana caranya bukan hanya menampilkan output
+Tetapi juga menggunakan input pada Dart.
